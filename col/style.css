@@ -1,0 +1,21 @@
+.container {
+  border: 3px solid tomato;
+}
+.col {
+  min-height: 250px;
+}
+.box1 {
+  background-color: lightgreen;
+}
+.box2 {
+  background-color: yellowgreen;
+}
+.box3 {
+  background-color: hotpink;
+}
+.box4 {
+  background-color: orangered;
+}
+.box5 {
+  background-color: brown;
+}
