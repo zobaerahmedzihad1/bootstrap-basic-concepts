@@ -1,0 +1,11 @@
+.container {
+  border: 3px solid salmon;
+}
+.box1{
+     height: 200px;
+     background-color: lightblue;
+}
+.box2{
+     height: 200px;
+     background-color: orangered;
+}

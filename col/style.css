@@ -1,21 +1,23 @@
 .container {
   border: 3px solid tomato;
 }
-.col {
-  min-height: 250px;
-}
 .box1 {
   background-color: lightgreen;
+  min-height: 250px;
 }
 .box2 {
   background-color: yellowgreen;
+  min-height: 250px;
 }
 .box3 {
   background-color: hotpink;
+  min-height: 250px;
 }
 .box4 {
   background-color: orangered;
+  min-height: 250px;
 }
 .box5 {
   background-color: brown;
+  min-height: 250px;
 }
