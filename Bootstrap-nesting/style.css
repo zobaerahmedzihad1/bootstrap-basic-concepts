@@ -1,0 +1,15 @@
+.container {
+  border: 3px solid rebeccapurple;
+}
+.box1 {
+  background-color: orangered;
+}
+.box2 {
+  background-color: hotpink;
+}
+.child1 {
+  background-color: rgb(28, 204, 28);
+}
+.child2 {
+  background-color: blue;
+}
