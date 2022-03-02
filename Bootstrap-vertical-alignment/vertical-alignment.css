@@ -1,0 +1,19 @@
+.container {
+  border: 3px solid red;
+}
+.box1 {
+  background-color: hotpink;
+  font-size: 39px;
+}
+.box2 {
+  background-color: rgb(106, 216, 106);
+  font-size: 25px;
+}
+.box3 {
+  background-color: rgb(99, 76, 226);
+  font-size: 17px;
+}
+.box {
+  padding: 10px;
+  margin: 5px;
+}
