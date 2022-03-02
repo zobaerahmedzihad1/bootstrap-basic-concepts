@@ -1,0 +1,11 @@
+.container {
+  border: 3px solid red;
+}
+.box1 {
+  background-color: yellowgreen;
+  height: 250px;
+}
+.box2 {
+  background-color: slateblue;
+  height: 250px;
+}

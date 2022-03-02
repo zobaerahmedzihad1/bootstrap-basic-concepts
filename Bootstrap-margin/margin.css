@@ -1,0 +1,7 @@
+.container {
+  border: 3px solid red;
+}
+.box1 {
+  background-color: blue;
+  height: 200px;
+}
