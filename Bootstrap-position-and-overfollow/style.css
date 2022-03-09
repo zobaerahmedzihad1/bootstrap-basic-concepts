@@ -1,0 +1,16 @@
+.container {
+  border: 3px solid red;
+}
+.box1 {
+  background-color: hotpink;
+  height: 200px;
+}
+.box2 {
+  background-color: rgb(106, 216, 106);
+  height: 200px;
+}
+.box3 {
+  background-color: rgb(99, 76, 226);
+  height: 200px;
+  
+}
